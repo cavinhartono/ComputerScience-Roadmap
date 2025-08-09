@@ -134,4 +134,4 @@ Penjelasan dari source code:
 
 [All List HTML Attributes - W3Schools](https://www.w3schools.com/TAGS/ref_attributes.asp)
 
-[Selanjutnya - Menampilkan Teks](../display/text/README.md)
+[Selanjutnya: Menampilkan Teks ->](../display/text/README.md)
