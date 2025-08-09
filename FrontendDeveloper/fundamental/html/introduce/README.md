@@ -133,3 +133,5 @@ Penjelasan dari source code:
 4. Event Attribute: `onclick="alert('Gambar diklik!')"` Menjalankan JavaScript saat gambar diklik
 
 [All List HTML Attributes - W3Schools](https://www.w3schools.com/TAGS/ref_attributes.asp)
+
+[Selanjutnya - Menampilkan Teks](../display/text/README.md)
